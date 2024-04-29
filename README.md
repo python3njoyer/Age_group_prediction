@@ -1,4 +1,4 @@
-# Age_group_prediction
+# Twitter Age Prediction
 
 This project is based off lexica constructed by the World Well Being Project. The purpose of the present project is to apply the lexica to build a predictive model of age from language use. The model was tested on celebrity tweets, as their Twitter activity and age are easily accessible, but the same algorithm can be applied to other social media datasets.
 
